@@ -39,14 +39,14 @@ style.css
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #f2f2f2;
+  background-color📘 #f2f2f2;
 }
 
 .container {
   width: 300px;
   margin: 50px auto;
   padding: 20px;
-  background-color: #fff;
+  background-color🏳️ #fff;
   border: 1px solid #ddd;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
